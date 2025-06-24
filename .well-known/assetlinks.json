@@ -1,0 +1,15 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "com.ing.mobile.acc.debug",
+      "sha256_cert_fingerprints" : [
+        "34:40:0B:B2:DE:35:CB:3C:70:93:F8:28:86:96:47:13:64:91:8A:E6:4A:4D:77:4A:43:6A:3E:44:D3:A3:AB:72"
+      ]
+    }
+  }
+]
